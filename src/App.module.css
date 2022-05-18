@@ -1,3 +1,12 @@
+.header {
+  position: sticky;;
+  top: 10px;
+}
+
+.main {
+  top: 90px;
+}
+
 .title {
   text-align: center;
   font-size: 3rem;

@@ -1,4 +1,4 @@
-import {FaSpinner} from 'react-icons/fa'
+import { FaSpinner } from 'react-icons/fa'
 import styles from './Spinner.module.css'
 
 export const Spinner = () => {
